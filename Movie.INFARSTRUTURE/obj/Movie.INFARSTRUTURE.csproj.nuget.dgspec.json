@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj": {}
+    "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj": {
+    "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj",
+        "projectUniqueName": "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj",
         "projectName": "Movie.INFARSTRUTURE",
-        "projectPath": "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj",
-        "packagesPath": "C:\\Users\\minh.lephu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.INFARSTRUTURE\\obj\\",
+        "projectPath": "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj",
+        "packagesPath": "C:\\Users\\LePhuMinh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.INFARSTRUTURE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\minh.lephu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LePhuMinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -17,5 +17,6 @@ namespace Movie.INFARSTRUTURE.Entities
         public int duration { get; set; }
         public int? genre_id { get; set; }
         public Genre genre { get; set; }
+        public List<Show> show { get; set; }
     }
 }
