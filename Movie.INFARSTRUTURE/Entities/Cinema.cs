@@ -8,11 +8,13 @@ namespace Movie.INFARSTRUTURE.Entities
 {
     public class Cinema
     {
-        public int cenima_id { get; set; }
-        public string cenima_name { get; set; }
-        public string cenima_address { get; set; }
-        public string cenima_tel { get; set; }
-        public string cenima_email { get; set; }
+        public int cinema_id { get; set; }
+        public string cinema_name { get; set; }
+        public string cinema_address { get; set; }
+        public string cinema_tel { get; set; }
+        public string cinema_email { get; set; }
+        public int city_id { get; set; }
         public City city { get; set; }
+        public List<Theater> theater { get; set; }
     }
 }

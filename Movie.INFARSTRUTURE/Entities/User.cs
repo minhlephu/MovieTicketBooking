@@ -15,8 +15,9 @@ namespace Movie.INFARSTRUTURE.Entities
         public string email { get; set; }
         public string address { get; set; }
         public int gender { get; set; }
-        public DateTime regis_date { get;set; }
+        public DateTime regis_date { get; set; }
         public int role_id { get; set; }
         public Role role { get; set; }
+        public List<Booking> booking {get;set;}
     }
 }

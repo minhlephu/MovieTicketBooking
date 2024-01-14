@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Movie.INFARSTRUTURE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17faeefce090cc29bbcfe7c456308f60a5318f16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+499a874b71c74d951e9fb97cdb8ef4527f6e2b71")]
 [assembly: System.Reflection.AssemblyProductAttribute("Movie.INFARSTRUTURE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Movie.INFARSTRUTURE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

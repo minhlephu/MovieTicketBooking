@@ -11,7 +11,10 @@ namespace Movie.INFARSTRUTURE.Entities
         public int theater_id { get; set; }
         public int row_qty { get; set; }
         public int col_qty { get; set; }
-        public int end_cinema_id { get; set; }
-      
+        public int cinema_id { get; set; }
+        public int seat_id { get; set; }
+        public Cinema cinema { get; set; }
+        public List<Show> show { get; set; }
+        public List<Seat> seat { get; set; }
     }
 }

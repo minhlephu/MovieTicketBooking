@@ -14,8 +14,10 @@ namespace Movie.INFARSTRUTURE.Entities
         public DateTime show_date { get; set; }
         public Guid mv_id { get; set; }
         public int mv_type_id { get; set; }
+        public int theater_id { get; set; }
         public Movie movie { get; set; }
         public Movie_type movie_type { get; set; }
+        public Theater theater { get; set; }
 
     }
 }

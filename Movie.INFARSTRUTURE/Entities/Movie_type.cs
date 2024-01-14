@@ -12,6 +12,6 @@ namespace Movie.INFARSTRUTURE.Entities
         public int mv_type_id { get; set; }
         public string mv_type_name { get; set; }
         public int surcharge { get; set; }
-        List<Show> show { get; set; }
+        public List<Show> show { get; set; }
     }
 }

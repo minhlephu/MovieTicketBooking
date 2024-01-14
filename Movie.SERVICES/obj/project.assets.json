@@ -2033,19 +2033,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\minh.lephu\\.nuget\\packages\\": {}
+    "C:\\Users\\LePhuMinh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.SERVICES\\Movie.SERVICES.csproj",
+      "projectUniqueName": "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.SERVICES\\Movie.SERVICES.csproj",
       "projectName": "Movie.SERVICES",
-      "projectPath": "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.SERVICES\\Movie.SERVICES.csproj",
-      "packagesPath": "C:\\Users\\minh.lephu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.SERVICES\\obj\\",
+      "projectPath": "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.SERVICES\\Movie.SERVICES.csproj",
+      "packagesPath": "C:\\Users\\LePhuMinh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.SERVICES\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\minh.lephu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LePhuMinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2059,8 +2059,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj": {
-              "projectPath": "C:\\Users\\minh.lephu\\Desktop\\DATN\\MovieApi\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj"
+            "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj": {
+              "projectPath": "C:\\Users\\LePhuMinh\\Desktop\\MovieTicketBooking\\Movie.INFARSTRUTURE\\Movie.INFARSTRUTURE.csproj"
             }
           }
         }
