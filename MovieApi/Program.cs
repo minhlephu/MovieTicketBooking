@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Movie.INFARSTRUTURE;
+using Movie.SERVICES.Interfaces;
+using Movie.SERVICES.Repositories;
+using Movie.SERVICES.ServiceExtension;
 
 namespace MovieApi
 {
@@ -11,7 +14,7 @@ namespace MovieApi
 
             // Add services to the container.
             builder.Services.AddAuthorization();
-
+            builder.Services.AddDIServices(builder.Configuration);
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

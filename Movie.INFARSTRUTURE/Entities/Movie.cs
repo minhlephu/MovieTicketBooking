@@ -11,7 +11,7 @@ namespace Movie.INFARSTRUTURE.Entities
     
     public class Movie
     {
-        public Guid mv_id { get; set; }   
+        public int mv_id { get; set; }   
         public string mv_name { get; set; }      
         public DateTime release_date { get; set; }
         public int duration { get; set; }
